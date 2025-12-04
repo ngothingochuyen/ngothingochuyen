@@ -1,16 +1,46 @@
-## Hi there 👋
+# 👋 Hi, I'm Ngô Thị Ngọc Huyền!
 
-<!--
-**ngothingochuyen/ngothingochuyen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Software Engineering Student** – Eastern International University (EIU)  
+💻 Passionate about software development, algorithms, and building clean, maintainable code.  
+🌱 Currently improving my skills in Java, object-oriented design, and data structures.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 🎓 **3rd-year student** majoring in **Software Engineering**  
+- ❤️ Interested in:
+  - Object-Oriented Programming  
+  - Data Structures & Algorithms  
+  - Problem Solving  
+  - Software Design  
+- ✨ Actively building projects and practicing labs for university courses  
+- 📚 Enjoy learning new technologies and improving coding practices
+
+---
+
+## 🧰 Technologies & Tools
+- **Languages:** Java
+- **Tools:** Eclipse, GitHub, VS Code  
+- **Concepts:** OOP, Algorithms, Recursion, Design Patterns  
+
+---
+
+## 📂 Featured Repositories
+Here are some of the main subjects I've worked on:
+
+- 🔹 **Object-Oriented Development**  
+- 🔹 **Programming & Problem Solving I**  
+- 🔹 **Programming & Problem Solving II**  
+- 🔹 **Data Structures and Algorithms**
+
+👉 You can find them in my public repositories!
+
+---
+
+## 📫 Contact Me
+- ✉️ **Email:** ntnh1385@gamil.com
+- 🌐 GitHub: **https://github.com/ngothingochuyen**
+
+---
+
+⭐ *Thanks for visiting my profile! Feel free to explore my repositories.*

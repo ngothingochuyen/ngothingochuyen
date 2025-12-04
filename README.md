@@ -34,7 +34,10 @@ Here are some of the main subjects I've worked on:
 - 🔹 **Data Structures and Algorithms**
 
 👉 You can find them in my public repositories!
-
+https://github.com/ngothingochuyen/Programming-and-Problem-Solving-I
+https://github.com/ngothingochuyen/Programming-and-Problem-Solving-II
+https://github.com/ngothingochuyen/Object-Oriented-Development.
+https://github.com/ngothingochuyen/Data-Structures-and-Algorithms
 ---
 
 ## 📫 Contact Me

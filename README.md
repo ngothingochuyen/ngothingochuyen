@@ -28,16 +28,17 @@
 ## 📂 Featured Repositories
 Here are some of the main subjects I've worked on:
 
-- 🔹 **Object-Oriented Development**  
-- 🔹 **Programming & Problem Solving I**  
-- 🔹 **Programming & Problem Solving II**  
+- 🔹 **Object-Oriented Development**
+- https://github.com/ngothingochuyen/Data-Structures-and-Algorithms
+- 🔹 **Programming & Problem Solving I**
+- https://github.com/ngothingochuyen/Programming-and-Problem-Solving-I
+- 🔹 **Programming & Problem Solving II**
+- https://github.com/ngothingochuyen/Programming-and-Problem-Solving-II
 - 🔹 **Data Structures and Algorithms**
+- https://github.com/ngothingochuyen/Object-Oriented-Development.
+- 🔹 **Custom Sorting Algorithms (Self-designed Sort Library)**
+- https://github.com/ngothingochuyen/Fastest-Sort 
 
-👉 You can find them in my public repositories!
-https://github.com/ngothingochuyen/Programming-and-Problem-Solving-I
-https://github.com/ngothingochuyen/Programming-and-Problem-Solving-II
-https://github.com/ngothingochuyen/Object-Oriented-Development.
-https://github.com/ngothingochuyen/Data-Structures-and-Algorithms
 ---
 
 ## 📫 Contact Me

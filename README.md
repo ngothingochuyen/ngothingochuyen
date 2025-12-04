@@ -41,7 +41,7 @@ https://github.com/ngothingochuyen/Data-Structures-and-Algorithms
 ---
 
 ## 📫 Contact Me
-- ✉️ **Email:** ntnh1385@gamil.com
+- ✉️ **Email:** ntnh1385@gmail.com
 - 🌐 GitHub: **https://github.com/ngothingochuyen**
 
 ---

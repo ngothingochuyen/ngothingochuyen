@@ -29,13 +29,13 @@
 Here are some of the main subjects I've worked on:
 
 - 🔹 **Object-Oriented Development**
-- https://github.com/ngothingochuyen/Data-Structures-and-Algorithms
+- https://github.com/ngothingochuyen/Object-Oriented-Development.
 - 🔹 **Programming & Problem Solving I**
 - https://github.com/ngothingochuyen/Programming-and-Problem-Solving-I
 - 🔹 **Programming & Problem Solving II**
 - https://github.com/ngothingochuyen/Programming-and-Problem-Solving-II
 - 🔹 **Data Structures and Algorithms**
-- https://github.com/ngothingochuyen/Object-Oriented-Development.
+- https://github.com/ngothingochuyen/Data-Structures-and-Algorithms
 - 🔹 **Custom Sorting Algorithms (Self-designed Sort Library)**
 - https://github.com/ngothingochuyen/Fastest-Sort 
 
